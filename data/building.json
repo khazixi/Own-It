@@ -1,0 +1,221 @@
+{
+	"Building": {
+		"Purple":
+		{
+			"Vermont": {
+				"position": 1,
+				"rent": [2, 10, 30, 90, 160, 250],
+				"price": 60,
+				"house_price": 50
+			},
+			"New Hampsire": {
+				"position": 3,
+				"rent": [4, 20, 60, 180, 320, 450],
+				"price": 60,
+				"house_price": 50
+			}
+		},
+		"Cyan":
+		{
+			"Rhode Island": {
+				"position": 6,
+				"rent": [6, 30, 90, 270, 400, 550],
+				"price": 100,
+				"house_price": 50
+			},
+			"Connecticut": {
+				"position": 8,
+				"rent": [6, 30, 90, 270, 400, 550],
+				"price": 100,
+				"house_price": 50
+			},
+			"Massachusetts": {
+				"position": 9,
+				"rent": [8, 40, 100, 300, 450, 600],
+				"price": 120,
+				"house_price": 50
+			}
+		},
+		"Pink":
+		{
+			"Pennsylvania": {
+				"position": 11,
+				"rent": [10, 50, 150, 450, 625, 750],
+				"price": 140,
+				"house_price": 100
+			},
+			"New Jersey": {
+				"position": 13,
+				"rent": [10, 50, 150, 450, 625, 750],
+				"price": 140,
+				"house_price": 100
+			},
+			"New York": {
+				"position": 14,
+				"rent": [12, 60, 180, 500, 700, 900],
+				"price": 160,
+				"house_price": 100
+			}
+		},
+		"Orange":
+		{
+			"Delaware": {
+				"position": 16,
+				"rent": [14, 70, 200, 550, 750, 950],
+				"price": 180,
+				"house_price": 100
+			},
+			"Maryland": {
+				"position": 18,
+				"rent": [14, 70, 200, 550, 750, 950],
+				"price": 180,
+				"house_price": 100
+			},
+			"Virginia": {
+				"position": 19,
+				"rent": [16, 80, 220, 600, 800, 1000],
+				"price": 200,
+				"house_price": 100
+			}
+		},
+		"Red":
+		{
+			"North Carolina": {
+				"position": 21,
+				"rent": [18, 90, 250, 700, 875, 1050],
+				"price": 220,
+				"house_price": 150
+			},
+			"South Carolina": {
+				"position": 23,
+				"rent": [18, 90, 250, 700, 875, 1050],
+				"price": 220,
+				"house_price": 150
+			},
+			"Georgia": {
+				"position": 24,
+				"rent": [20, 100, 300, 750, 925, 1100],
+				"price": 240,
+				"house_price": 150
+			}
+		},
+		"Yellow":
+		{
+			"Alabama": {
+				"position": 26,
+				"rent": [22, 110, 330, 800, 975, 1150],
+				"price": 260,
+				"house_price": 150
+			},
+			"Mississippi": {
+				"position": 27,
+				"rent": [22, 110, 330, 800, 975, 1150],
+				"price": 260,
+				"house_price": 150
+			},
+			"Louisiana": {
+				"position": 29,
+				"rent": [24, 120, 360, 850, 1025, 1200],
+				"price": 280,
+				"house_price": 150
+			}
+		},
+		"Green":
+		{
+			"Oklahoma": {
+				"position": 31,
+				"rent": [26, 130, 390, 900, 1100, 1275],
+				"price": 300,
+				"house_price": 200
+			},
+			"New Mexixo": {
+				"position": 32,
+				"rent": [26, 130, 390, 900, 1100, 1275],
+				"price": 300,
+				"house_price": 200
+			},
+			"Texas": {
+				"position": 34,
+				"rent": [28, 150, 450, 1000, 1200, 1400],
+				"price": 320,
+				"house_price": 200
+			}
+		},
+		"Blue":
+		{
+			"Arizona": {
+				"position": 37,
+				"rent": [35, 175, 500, 1100, 1300, 1500],
+				"price": 350,
+				"house_price": 200
+			},
+			"California": {
+				"position": 39,
+				"rent": [50, 200, 600, 1400, 1700, 2000],
+				"price": 400,
+				"house_price": 200
+			}
+		}
+	},
+
+	"Railroad":
+	{
+		"Nevada": {
+			"position": 5,
+			"rent": [50, 100, 150, 200],
+			"price": 200
+		},
+		"Michigan": {
+			"position": 15,
+			"rent": [50, 100, 150, 200],
+			"price": 200
+		},
+		"Tennesee": {
+			"position": 25,
+			"rent": [50, 100, 150, 200],
+			"price": 200
+		},
+		"Kansas": {
+			"position": 35,
+			"rent": [50, 100, 150, 200],
+			"price": 200
+		}
+	},
+	"Utility":
+	{
+		"Arkansas": {
+			"position": 12,
+			"price": 150,
+			"rent": [6, 10]
+		},
+		"Missouri": {
+			"position": 28,
+			"price": 150,
+			"rent": [6, 10]
+		}
+	},
+	"Tax":
+	{
+		"Wyoming": {
+			"position": 4,
+			"tax": 200
+		},
+		"Nebraska": {
+			"position": 38,
+			"tax": 100
+		}
+	},
+	"Chance":
+	[
+		{"position": 7},
+		{"position": 22},
+		{"position": 36}
+	],
+
+	"Community Chest":
+	[
+		{"position": 2},
+		{"position": 17},
+		{"position": 33}
+	]
+}
